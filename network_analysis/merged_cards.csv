@@ -1,0 +1,10 @@
+addresses,positive_counts,positive_percentage,negative_counts,negative_percentage
+addresses,35.0,0.0066857688634192934,2450.0,0.4680038204393505
+"Select Hôtel, 1 place de la Sorbonne, Paris",4.0,0.0007640878701050621,0.0,0.0
+"Foyer international des étudiantes, 93 boulevard Saint-Michel, Paris",3.0,0.0005730659025787965,0.0,0.0
+"78 rue d'Assas, Paris",3.0,0.0005730659025787965,0.0,0.0
+"Hôtel des Saints-Pères, 65 rue des Saints-Pères, Paris",3.0,0.0005730659025787965,0.0,0.0
+"Reid Hall, 4 rue de Chevreuse, Paris",0.0,0.0,20.0,0.0038204393505253103
+"11 rue de Vaugirard, Paris",0.0,0.0,17.0,0.0032473734479465137
+"Hôtel Corneille, 5 rue Corneille, Paris",0.0,0.0,15.0,0.0028653295128939827
+"9 rue de la Grande Chaumière, Paris",0.0,0.0,14.0,0.0026743075453677175

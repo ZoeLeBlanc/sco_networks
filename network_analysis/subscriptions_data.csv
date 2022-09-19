@@ -1,0 +1,106 @@
+event_type,year,counts
+Reimbursement,1920.0,19
+Reimbursement,1921.0,47
+Reimbursement,1922.0,66
+Reimbursement,1923.0,102
+Reimbursement,1924.0,229
+Reimbursement,1925.0,246
+Reimbursement,1926.0,360
+Reimbursement,1927.0,219
+Reimbursement,1928.0,223
+Reimbursement,1929.0,249
+Reimbursement,1930.0,25
+Reimbursement,1931.0,4
+Reimbursement,1932.0,47
+Reimbursement,1933.0,197
+Reimbursement,1934.0,68
+Reimbursement,1935.0,137
+Reimbursement,1936.0,129
+Reimbursement,1937.0,55
+Reimbursement,1938.0,64
+Reimbursement,1939.0,120
+Reimbursement,1940.0,63
+Reimbursement,1941.0,125
+Reimbursement,1942.0,49
+Renewal,1920.0,120
+Renewal,1921.0,235
+Renewal,1922.0,323
+Renewal,1923.0,385
+Renewal,1924.0,408
+Renewal,1925.0,402
+Renewal,1926.0,395
+Renewal,1927.0,279
+Renewal,1928.0,277
+Renewal,1929.0,367
+Renewal,1930.0,55
+Renewal,1931.0,34
+Renewal,1932.0,42
+Renewal,1933.0,176
+Renewal,1934.0,104
+Renewal,1935.0,127
+Renewal,1936.0,234
+Renewal,1937.0,92
+Renewal,1938.0,121
+Renewal,1939.0,187
+Renewal,1940.0,152
+Renewal,1941.0,284
+Separate Payment,1920.0,1
+Separate Payment,1923.0,1
+Separate Payment,1924.0,3
+Separate Payment,1925.0,3
+Separate Payment,1926.0,1
+Separate Payment,1927.0,4
+Separate Payment,1928.0,2
+Separate Payment,1929.0,2
+Separate Payment,1932.0,1
+Separate Payment,1933.0,17
+Separate Payment,1934.0,2
+Separate Payment,1935.0,4
+Separate Payment,1936.0,9
+Separate Payment,1938.0,8
+Separate Payment,1939.0,14
+Separate Payment,1940.0,7
+Separate Payment,1941.0,6
+Subscription,1919.0,54
+Subscription,1920.0,203
+Subscription,1921.0,280
+Subscription,1922.0,313
+Subscription,1923.0,262
+Subscription,1924.0,313
+Subscription,1925.0,406
+Subscription,1926.0,394
+Subscription,1927.0,306
+Subscription,1928.0,261
+Subscription,1929.0,278
+Subscription,1930.0,75
+Subscription,1931.0,85
+Subscription,1932.0,137
+Subscription,1933.0,247
+Subscription,1934.0,139
+Subscription,1935.0,228
+Subscription,1936.0,193
+Subscription,1937.0,119
+Subscription,1938.0,94
+Subscription,1939.0,153
+Subscription,1940.0,127
+Subscription,1941.0,166
+Supplement,1919.0,1
+Supplement,1920.0,7
+Supplement,1921.0,14
+Supplement,1922.0,15
+Supplement,1923.0,25
+Supplement,1924.0,19
+Supplement,1925.0,20
+Supplement,1926.0,14
+Supplement,1927.0,9
+Supplement,1928.0,15
+Supplement,1929.0,5
+Supplement,1932.0,4
+Supplement,1933.0,7
+Supplement,1934.0,2
+Supplement,1935.0,8
+Supplement,1936.0,5
+Supplement,1938.0,3
+Supplement,1939.0,7
+Supplement,1940.0,5
+Supplement,1941.0,5
